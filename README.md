@@ -9,8 +9,8 @@
 
 ### 🚀 About Me
 🌟 Passionate about building robust, secure, and high-performance web apps using the latest **.NET** and **Angular** technologies.  
-💡 I focus on clean architecture, maintainable code, and delivering real business value.  
-🎯 Always eager to learn new tools, design patterns, and best practices.  
+💡 Focus on clean architecture, maintainable code, and delivering real business value.  
+🎯 Always learning new tools, design patterns, and best practices.  
 🤝 Open for freelance projects, collaborations, and full-time opportunities.  
 
 ---
@@ -41,22 +41,22 @@
 
 ### 📊 GitHub Stats
 
-![Amr Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=amralmohamdy&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![Amr Mohamed's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=amralmohamdy&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amralmohamdy&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=amralmohamdy&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ### 🏆 GitHub Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=amralmohamdy&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=amralmohamdy&theme=radical&no-frame=true&margin-w=15)
 
 ---
 
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/amralmohamdy)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=githubpages&logoColor=white&style=for-the-badge)](https://portfolio.com)
-[![Email](https://img.shields.io/badge/-Amr Mohamed.dev%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:amralmohamdy.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=githubpages&logoColor=white&style=for-the-badge)](#)
+[![Email](https://img.shields.io/badge/-amralmohamdy.dev%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:amralmohamdy.dev@gmail.com)
 
 ---
 
@@ -65,7 +65,7 @@
 
 ---
 
-### 🐍 Dynamic GitHub Contribution Snake
-![Snake animation](https://github.com/amralmohamdy/amralmohamdy/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake  
+![Snake animation](https://raw.githubusercontent.com/amralmohamdy/amralmohamdy/output/github-contribution-grid-snake.svg)
 
 </div>
